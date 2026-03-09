@@ -26,7 +26,11 @@ Identify countries and cities where new restaurants could be opened based on:
 • Online delivery and table booking correlate with higher ratings  
 • Price and ratings show weak correlation
 
-## Dashboard
+## 📊 Dashboard
+
+### 📷 Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.png)
 
 An interactive Excel dashboard built to visualize:
 
