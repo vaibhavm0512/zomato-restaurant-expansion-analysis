@@ -43,7 +43,7 @@ An interactive Excel dashboard built to visualize:
 
 Watch the interactive dashboard walkthrough here:
 
-[![Dashboard Walkthrough](https://img.youtube.com/vi/hBBdt8Fmvny/0.jpg)](https://youtu.be/hBBdt8Fmvny)
+[![Dashboard Walkthrough](https://img.youtube.com/vi/hBBdt8FmvnY/0.jpg)](https://youtu.be/hBBdt8FmvnY)
 
 Vaibhav Mishra  
 Aspiring Data Analyst
